@@ -1,5 +1,5 @@
 {
-    "name": "wi1dcard/yii2-hejiang-event",
+    "name": "miniphper/yii2-hejiang-event",
     "description": "A event dispatcher for plugin system, make event mounting / dispatching easily.",
     "type": "library",
     "require": {
@@ -9,8 +9,8 @@
     },
     "authors": [
         {
-            "name": "wi1dcard",
-            "email": "yokka47@qq.com"
+            "name": "miniphper",
+            "email": "1062241667@qq.com"
         }
     ],
     "autoload": {
